@@ -119,22 +119,22 @@ body,p,span,a,strong {
 	width: 26px;
 }
 .ico-menu ul li:nth-child(1) a::before{
-	background-image: url(./icon/searchicon.png);
+	background-image: url(./Icon/searchicon.png);
 }
 .ico-menu ul li:nth-child(1) a::after{
-	background-image: url(./icon/searchiconhover.png);
+	background-image: url(./Icon/searchiconhover.png);
 }
 .ico-menu ul li:nth-child(2) a::before{
-	background-image: url(./icon/cartico.png);
+	background-image: url(./Icon/cartico.png);
 }
 .ico-menu ul li:nth-child(2) a::after{
-	background-image: url(./icon/carthovericon.png);
+	background-image: url(./Icon/carthovericon.png);
 }
 .ico-menu ul li:nth-child(3) a::before{
-	background-image: url(./icon/baricon.png);
+	background-image: url(./Icon/baricon.png);
 }
 .ico-menu ul li:nth-child(3) a::after{
-	background-image: url(./icon/barhoverico.png);
+	background-image: url(./Icon/barhoverico.png);
 }
 .ico-menu ul li:hover a::before{
 	opacity: 0;
